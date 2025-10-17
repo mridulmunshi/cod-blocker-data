@@ -1,0 +1,22 @@
+{
+  "01711111111": {
+    "status": "blocked",
+    "notes": "Fraud attempt - fake address"
+  },
+  "01822222222": {
+    "status": "blocked",
+    "notes": "Multiple unpaid COD orders"
+  },
+  "01933333333": {
+    "status": "blocked",
+    "notes": "Scammer - phone unreachable"
+  },
+  "01644444444": {
+    "status": "allowed",
+    "notes": "Verified regular customer"
+  },
+  "01555555555": {
+    "status": "blocked",
+    "notes": "Blacklisted by admin"
+  }
+}
