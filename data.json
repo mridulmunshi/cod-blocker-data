@@ -1,7 +1,8 @@
 {
     "01820858616": {
         "status": "blocked",
-        "notes": "Auto blocked on status: refunded"
+        "notes": "",
+        "source": "Manual"
     },
     "01820858611": {
         "status": "blocked",
