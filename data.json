@@ -109,5 +109,11 @@
         "notes": "Auto blocked on status: fakeorder",
         "source": "Auto",
         "added_time": 1761167088
+    },
+    "01827840523": {
+        "status": "blocked",
+        "notes": "\u0996\u09c1\u09ac \u099a\u09bf\u099f\u09be\u09b0 \u0985\u09cd\u09af\u09be\u09a1\u09ad\u09be\u09a8\u09cd\u09b8 \u099b\u09be\u09dc\u09be \u0995\u09c7\u0989 \u09aa\u09cd\u09b0\u09cb\u09a1\u09be\u0995\u09cd\u099f \u09aa\u09be\u09a0\u09be\u09ac\u09c7\u09a8\u09a8\u09be",
+        "source": "Manual",
+        "added_time": 1761229258
     }
 }
