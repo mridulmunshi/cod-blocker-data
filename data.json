@@ -139,5 +139,11 @@
         "notes": "Auto blocked on status: fakeorder",
         "source": "Auto",
         "added_time": 1761600631
+    },
+    "01906738192": {
+        "status": "blocked",
+        "notes": "Auto blocked on status: fakeorder",
+        "source": "Auto",
+        "added_time": 1761601925
     }
 }
